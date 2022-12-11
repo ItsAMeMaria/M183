@@ -10,11 +10,13 @@ Ich habe gelernt, was "Open Redirecting " ist und wie man sich vor dem schützen
 ## Beschreibung
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Folgendes habe ich gelerent:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+* Was Open Redirecting ist und was die Risiken davon sind:
+  
+
+* Was für einen grossen Unterschied der Schutz machen kann:
+[![Watch the video](https://img.youtube.com/vi/GRQmvTj9dOc/default.jpg)](https://youtu.be/GRQmvTj9dOc)
 
 ## Verifikation
 
