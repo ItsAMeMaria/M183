@@ -5,7 +5,7 @@ Maria Soldo
 In diesem Modul ging um Applikaitonssicherheiten zu implementieren. In diesem Lernbericht werde ich die Sicherheitslücke "Open Redirecting" vorstellen.
 
 ## Was habe ich gelernt?
-Ich habe gelernt, was "Open Redirecting " ist und wie man sich vor dem schützen kann.
+Ich habe gelernt, was "Open Redirecting " ist und wie man die Applikation davor schützen kann.
 
 ## Beschreibung
 
@@ -41,11 +41,12 @@ Folgendes habe ich gelerent:
 ## Verifikation
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+* Mit der Defention und dem Code-Auschnitt, zeige ich das es 
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Ich konnte das Open Redirect repetieren und verstehe es auch recht gut.
 
-👎 und etwas, was nicht gut lief.
+👎 Das Repetieren dauerte etwas länger als gedacht, weil ich fast alles vergessen habe.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: ✍️ Eventuel, während den Aufgaben lösen eine Aufnahme machen, um diese später wieder anzuschauen.
