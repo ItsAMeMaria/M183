@@ -2,7 +2,7 @@
 Maria Soldo
 
 ## Einleitung
-In diesem Modul ging um Applikaitonssicherheiten zu implementieren. In diesem Lernbericht werde ich die Sicherheitslücke "Open Redirect" vorstellen.
+In diesem Modul ging es darum Applikaitonssicherheiten zu implementieren. In diesem Lernbericht werde ich die Sicherheitslücke "Open Redirect" vorstellen.
 
 ## Was habe ich gelernt?
 Ich habe gelernt, was "Open Redirect " ist und wie man die Applikation davor schützen kann.
@@ -11,7 +11,7 @@ Ich habe gelernt, was "Open Redirect " ist und wie man die Applikation davor sch
 Folgendes habe ich gelerent:
 
 * Was Open Redirect ist und was die Risiken davon sind:
-Open Redirect ist wenn die Applikation eine unvalidierte URL erhält und den User mit der unvalidierten URL weiterleitet. Das kann zum Risiko, phishing-attacken führen.
+Open Redirect ist, wenn die Applikation eine unvalidierte URL erhält und den User mit der unvalidierten URL weiterleitet. Das kann zum Risiko, phishing-attacken, führen.
 
 * Wie man die Appliaktion schützen kann:
 ```Java
@@ -43,6 +43,6 @@ Mit der Defention und dem Code-Auschnitt, zeige ich das ich das Risiko und die I
 
 👍 Ich konnte das Open Redirect repetieren und verstehe es auch recht gut.
 
-👎 Das Repetieren dauerte etwas länger als gedacht, weil ich fast alles vergessen habe.
+👎 Das Repetieren dauerte etwas länger als gedacht, weil ich fast alles vergessen habe. (Wo das redirect hingehört, wie man es implementiert)
 
-**VBV**: ✍️ Eventuel, während den Aufgaben lösen eine Aufnahme machen, um diese später wieder anzuschauen.
+**VBV**: ✍️ Während den Aufgaben lösen eine Aufnahme machen, um diese später wieder anzuschauen, um nicht fast alles zu vergessen.
