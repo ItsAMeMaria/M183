@@ -45,4 +45,4 @@ Mit der Defention und dem Code-Auschnitt, zeige ich das ich das Risiko und die I
 
 👎 Das Repetieren dauerte etwas länger als gedacht, weil ich fast alles vergessen habe. (Wo das redirect hingehört, wie man es implementiert)
 
-**VBV**: ✍️ Während den Aufgaben lösen eine Aufnahme machen, um diese später wieder anzuschauen, um nicht fast alles zu vergessen.
+**VBV**: ✍️ Während den Aufgaben lösen eine Aufnahme machen oder bessere Notizen schreiben, um diese später wieder anzuschauen, um nicht fast alles zu vergessen.
