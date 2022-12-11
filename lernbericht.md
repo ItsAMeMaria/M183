@@ -13,9 +13,29 @@ Ich habe gelernt, was "Open Redirecting " ist und wie man sich vor dem schützen
 Folgendes habe ich gelerent:
 
 * Was Open Redirecting ist und was die Risiken davon sind:
+
+* Wie man die Appliaktion schützen kann:
+```Java
+   public void back() {
+        FacesContext context = FacesContext.getCurrentInstance();
+        HttpServletResponse response = (HttpServletResponse) context.getExternalContext().getResponse();
+        //Die "Wurzel" der Url die benutzt werden soll
+        String baseUrl = "http://localhost:8080/SSA-5/";
+        if (!redirectionUrl.startsWith(baseUrl)) {
+            //Wenn die Url die weitergeleitet werden muss, mit der baseUrl anfängt dann soll:
+            try {
+                //es zur angehängten "index.xhtml" weitergeleitet werden. 
+                response.sendRedirect(redirectionUrl = baseUrl + "/secured/index.xhtml");
+            } catch (IOException ex) {
+                Logger.getLogger(NewsController.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+    }
+```
   
 
 * Was für einen grossen Unterschied der Schutz machen kann:
+
 [![Watch the video](https://img.youtube.com/vi/GRQmvTj9dOc/default.jpg)](https://youtu.be/GRQmvTj9dOc)
 
 ## Verifikation
