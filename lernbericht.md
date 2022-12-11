@@ -2,17 +2,16 @@
 Maria Soldo
 
 ## Einleitung
-In diesem Modul ging um Applikaitonssicherheiten zu implementieren. In diesem Lernbericht werde ich die Sicherheitslücke "Open Redirecting" vorstellen.
+In diesem Modul ging um Applikaitonssicherheiten zu implementieren. In diesem Lernbericht werde ich die Sicherheitslücke "Open Redirect" vorstellen.
 
 ## Was habe ich gelernt?
-Ich habe gelernt, was "Open Redirecting " ist und wie man die Applikation davor schützen kann.
+Ich habe gelernt, was "Open Redirect " ist und wie man die Applikation davor schützen kann.
 
 ## Beschreibung
-
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 Folgendes habe ich gelerent:
 
-* Was Open Redirecting ist und was die Risiken davon sind:
+* Was Open Redirect ist und was die Risiken davon sind:
+Open Redirect ist wenn die Applikation eine unvalidierte URL erhält und den User mit der unvalidierten URL weiterleitet. Das kann zum Risiko, phishing-attacken führen.
 
 * Wie man die Appliaktion schützen kann:
 ```Java
@@ -32,16 +31,13 @@ Folgendes habe ich gelerent:
         }
     }
 ```
-  
 
 * Was für einen grossen Unterschied der Schutz machen kann:
 
 [![Watch the video](https://img.youtube.com/vi/GRQmvTj9dOc/default.jpg)](https://youtu.be/GRQmvTj9dOc)
 
 ## Verifikation
-
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
-* Mit der Defention und dem Code-Auschnitt, zeige ich das es 
+Mit der Defention und dem Code-Auschnitt, zeige ich das ich das Risiko und die Implentation verstanden habe. Das Video soll die Gefahr und den Schutzt zeigen.
 
 # Reflektion zum Arbeitsprozess
 
