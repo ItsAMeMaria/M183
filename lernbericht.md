@@ -1,13 +1,11 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Maria Soldo
 
 ## Einleitung
-
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In diesem Modul ging um Applikaitonssicherheiten zu implementieren. In diesem Lernbericht werde ich die Sicherheitslücke "Open Redirecting" vorstellen.
 
 ## Was habe ich gelernt?
-
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt, was "Open Redirecting " ist und wie man sich vor dem schützen kann.
 
 ## Beschreibung
 
